@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaksiUdruzenje WebAPIService", "TaksiUdruzenje WebAPIService\TaksiUdruzenje WebAPIService.csproj", "{4FAFC053-942F-4F91-9288-F733545B4D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaksiUdruzenjeLibrary", "TaksiUdruzenjeLibrary\TaksiUdruzenjeLibrary.csproj", "{0F0C8D22-F6EB-475B-8160-2E14EF5F64F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAFC053-942F-4F91-9288-F733545B4D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAFC053-942F-4F91-9288-F733545B4D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAFC053-942F-4F91-9288-F733545B4D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAFC053-942F-4F91-9288-F733545B4D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0C8D22-F6EB-475B-8160-2E14EF5F64F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0C8D22-F6EB-475B-8160-2E14EF5F64F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0C8D22-F6EB-475B-8160-2E14EF5F64F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0C8D22-F6EB-475B-8160-2E14EF5F64F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85D348E-0122-4EB8-9890-B93CAD0486BE}
+	EndGlobalSection
+EndGlobal
